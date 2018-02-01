@@ -1,0 +1,19 @@
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\Sudoku_ver7.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - namieszane ale z nowym pomysłem\Sudoku\obj\Debug\Sudoku_ver7.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - nowy pomysł liczy do 100ms\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - nowy pomysł liczy do 100ms\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7 - nowy pomysł liczy do 100ms\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver9\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver9\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver9\Sudoku\obj\Debug\Sudoku.pdb

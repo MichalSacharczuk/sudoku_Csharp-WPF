@@ -1,0 +1,141 @@
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver2\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver3\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver4\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver5\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver6\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver7\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\bin\Debug\Sudoku.exe.manifest
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\bin\Debug\Sudoku.application
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku.exe.manifest
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\- - - STAŻ - - -\- - - STAZ-repozytorium - - -\sudoku\sudoku - C#\Sudoku\obj\Debug\Sudoku.application
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver11\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver11\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver11\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\bin\Debug\Sudoku.exe.manifest
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\bin\Debug\Sudoku.application
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku.exe.manifest
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\Sudoku\Sudoku_ver12 - poprawianie okienka po rozwiązaniu\Sudoku\obj\Debug\Sudoku.application

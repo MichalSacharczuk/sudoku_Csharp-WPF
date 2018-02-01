@@ -1,0 +1,34 @@
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\bin\Debug\Sudoku.exe.manifest
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\bin\Debug\Sudoku.application
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku_ver10.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku_ver10.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku.exe.manifest
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10\Sudoku\obj\Debug\Sudoku.application
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\bin\Debug\Sudoku.exe.manifest
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\bin\Debug\Sudoku.application
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku_ver10.csprojResolveAssemblyReference.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\MainWindow.baml
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\MainWindow.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\App.g.cs
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku_ver10.csproj.GenerateResource.Cache
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku.exe.manifest
+C:\Users\Suchy\Desktop\!!! - PROGRAMOWANIE - !!!\AKADEMIA C#\Sudoku\Sudoku_ver10 - można grać!\Sudoku\obj\Debug\Sudoku.application
